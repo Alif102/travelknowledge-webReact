@@ -1,6 +1,6 @@
 import React from 'react'
 import FlightSearch from './FlightSearch'
-import covair from "./Images/covair.jpg"
+import fn1 from "./Images/fn1.jpg"
 import flight1 from "./Images/flight1.jpg"
 import flight2 from "./Images/flight2.jpg"
 import flight3 from "./Images/flight3.jpg"
@@ -19,7 +19,7 @@ const About = () => {
     <>
     <Container>
         <figure className='position-relative'>
-        <img src={covair} alt="Norway" className='img-fluid abt-pic'/>
+        <img src={fn1} alt="Norway" className='img-fluid abt-pic'/>
 
 
         </figure>

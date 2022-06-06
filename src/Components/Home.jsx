@@ -135,7 +135,7 @@ const Home = () => {
    
     
       
-        <div className='col-10 col-sm-8 mx-auto hl-div'>
+        <div className='col-10 col-sm-12 mx-auto hl-div'>
           <Container>
             <Row>
               <Col>
@@ -148,7 +148,7 @@ const Home = () => {
               <p>Track your Flight Status</p>
               <button className='figbtn'>Track Flight</button></Col>
               <Col>
-              <p className='h-ico'><BiWorld size={80}/></p>
+              <p className='h-ico' ><BiWorld size={80}/></p>
               <p>Track Visa Application Status</p>
               <form>
               <div class="form-group">

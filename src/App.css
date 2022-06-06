@@ -192,10 +192,11 @@ figcaption {
 }
 .fli-h2{
   font-size: 50px;
-  color: #191a17;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #cceff5;
+  font-family:'Courier New', Courier, monospace;
   font-weight: 600;
 }
+
 
 
 /* caaard */
@@ -450,6 +451,8 @@ figcaption {
 .h-ico{
   font-size: 30px;
   color: #ffdd40;
+  margin: 15px;
+  
 }
 .h-div1{
   color: #222;
@@ -659,6 +662,7 @@ figcaption {
 .nav-item.active {
   color: #ffdd40;
   border: 1px solid #ffdd40;
+  border-radius: 5px;
 }
 .nav-links.active {
   color: #ffdd40;
